@@ -1,0 +1,15 @@
+.container {
+  background-color: lightblue;
+  width: auto;
+  border-radius: 50%;
+}
+
+.container img {
+  width: 800px;
+  margin-top: 400px;
+  margin-left: 600px;
+}
+h1 {
+  color: black;
+  font-size: 30px;
+}
