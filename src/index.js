@@ -7,5 +7,6 @@ import "bootstrap/dist/css/bootstrap.css";
 import Tests from "./components/tests";
 
 ReactDOM.render(<Tests />, document.getElementById("root"));
+//Zassan bolno
 
 reportWebVitals();
